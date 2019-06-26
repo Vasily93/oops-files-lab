@@ -1,0 +1,21 @@
+ {
+  "name": "array-methods-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "test: watch": "npm run test -- --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vasily93/array-methods-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vasily93/array-methods-lab/issues"
+  },
+  "homepage": "https://github.com/Vasily93/array-methods-lab#readme"
+}
